@@ -8,21 +8,21 @@ import Rental from "./Rental";
 
 const Rentals = () => {
   const rentals = [
-    { title: "Texas, USA", image: house1, price: "1,541" },
-    { title: "Texas, USA", image: house2, price: "1,541" },
-    { title: "Texas, USA", image: house3, price: "1,541" },
-    { title: "Texas, USA", image: house4, price: "1,541" },
-    { title: "Texas, USA", image: house5, price: "1,541" },
-    { title: "Texas, USA", image: house1, price: "1,541" },
-    { title: "Texas, USA", image: house2, price: "1,541" },
-    { title: "Texas, USA", image: house3, price: "1,541" },
-    { title: "Texas, USA", image: house4, price: "1,541" },
-    { title: "Texas, USA", image: house5, price: "1,541" },
-    { title: "Texas, USA", image: house1, price: "1,541" },
-    { title: "Texas, USA", image: house2, price: "1,541" },
-    { title: "Texas, USA", image: house3, price: "1,541" },
-    { title: "Texas, USA", image: house4, price: "1,541" },
-    { title: "Texas, USA", image: house5, price: "1,541" },
+    { title: "Lagos, Nigeria", image: house1, price: "30, 000" },
+    { title: "Lagos, Nigeria", image: house2, price: "50,000" },
+    { title: "Lagos, Nigeria", image: house3, price: "80,000" },
+    { title: "Lagos, Nigeria", image: house4, price: "40,000" },
+    { title: "Lagos, Nigeria", image: house5, price: "20,0000" },
+    { title: "Lagos, Nigeria", image: house1, price: "1,541" },
+    { title: "Lagos, Nigeria", image: house2, price: "140,000" },
+    { title: "Lagos, Nigeria", image: house3, price: "50,000" },
+    { title: "Lagos, Nigeria", image: house4, price: "10,541" },
+    { title: "Lagos, Nigeria", image: house5, price: "21,500" },
+    { title: "Lagos, Nigeria", image: house1, price: "1,541" },
+    { title: "Lagos, Nigeria", image: house2, price: "1,541" },
+    { title: "Lagos, Nigeria", image: house3, price: "1,541" },
+    { title: "Lagos, Nigeria", image: house4, price: "1,541" },
+    { title: "Lagos, Nigeria", image: house5, price: "1,541" },
   ];
   return (
     <div className="py-3 sm:py-5">
